@@ -28,9 +28,10 @@
   <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=emreds&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
 </a>
+ </div>
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreds&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
-</a>
+  </a>
  </div>
-  
 <br />
