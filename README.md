@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+and+welcome+to+my+Github+profile!;Don't+hessitate+to+contact">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!+Welcome+to+my+Github+profile!;Don't+hesitate+to+contact">
 </p>
 
 </div>
