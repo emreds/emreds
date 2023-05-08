@@ -23,15 +23,15 @@
 <br />
 <div align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emreds&show_icons=true&theme=tokyonight&count_private=true" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=emreds&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
   <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=emreds&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
+  <img align="center" src="https://github-readme-streak-stats-sigma-five.herokuapp.com?user=emreds&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
 </a>
  </div>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreds&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emreds&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
   </a>
  </div>
 <br />
