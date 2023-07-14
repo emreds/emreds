@@ -4,12 +4,6 @@
 </p>
 
 </div>
-<a href="https://www.linkedin.com/in/emred/">
-    <img align="left" alt="Emre Demir's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/emredemirinfo">
-    <img align="left" alt="Emre Demir | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-  </a>
 <br />
 <br />
 
@@ -18,7 +12,6 @@
 - I want to learn more about: Programming Languages and Algorithms.
 - You can reach out to me via: [e-mail](emredemireng@gmail.com).
 - [For more information](https://emreds.github.io/).
-
  
 <br />
 <div align="center">
@@ -31,7 +24,7 @@
  </div>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emreds&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emreds&layout=compact&theme=tokyonight&hide=jupyter%20notebook,C%23" />
   </a>
  </div>
 <br />
