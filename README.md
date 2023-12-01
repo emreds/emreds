@@ -7,7 +7,7 @@
 <br />
 <br />
 
-- I hold my MSc in Computer Science at the Technical University of Munich <br />
+- I earned my MSc in Computer Science from the Technical University of Munich. <br />
 - My fields of Interest: Software Engineering and Machine Learning.
 - You can reach out to me via: [e-mail](emredemireng@gmail.com).
 - [For more information](https://emreds.github.io/).
