@@ -7,9 +7,8 @@
 <br />
 <br />
 
-- I am currently pursuing my MSc Thesis in Computer Science at the Technical University of Munich, as well as at the German Aerospace Agency. <br />
-- My fields of Interest: AutoML, Natural Language Processing, Computer Vision, and MLOps.
-- I want to learn more about: Programming Languages and Algorithms.
+- I hold my MSc in Computer Science at the Technical University of Munich <br />
+- My fields of Interest: Software Engineering and Machine Learning.
 - You can reach out to me via: [e-mail](emredemireng@gmail.com).
 - [For more information](https://emreds.github.io/).
  
